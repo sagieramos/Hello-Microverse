@@ -69,14 +69,14 @@ Example command:
 
 Clone this repository to your desired folder:
 ```sh
-  git clone https://github.com/sagieramos/Hello-world $HOME/Hello-world
+  git clone https://github.com/sagieramos/Hello-Microvese $HOME/Hello-world
 ```
 ### Usage
 
 To run the project, execute the following command:
 
 ```sh
-  open $HOME/Hello-world/index.html
+  open $HOME/Hello-Microverse/index.html
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
